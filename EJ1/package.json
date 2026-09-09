@@ -1,0 +1,19 @@
+{
+  "name": "iva-renta-api",
+  "version": "1.0.0",
+  "description": " aplicación API de cálculo de IVA y Renta, segun valores de “SV”",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["express", "api", "iva", "renta", "el-salvador"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
