@@ -1,0 +1,19 @@
+{
+  "name": "impuestos-api",
+  "version": "1.0.0",
+  "description": "aplicacion con Express, rutas, validaciones, objetos, funciones y try/catch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["express", "api", "iva", "renta", "centroamerica", "impuestos"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
